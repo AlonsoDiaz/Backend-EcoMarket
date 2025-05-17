@@ -1,0 +1,5 @@
+com\ecomarket\ecomarket\model\Cliente.class
+com\ecomarket\ecomarket\repository\ClienteRepository.class
+com\ecomarket\ecomarket\controller\ClienteController.class
+com\ecomarket\ecomarket\EcomarketApplication.class
+com\ecomarket\ecomarket\service\ClienteService.class
